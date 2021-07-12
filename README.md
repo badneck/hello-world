@@ -1,2 +1,2 @@
 # hello-world
-Short assignment for SDEV120
+GitHub assignment for SDEV140
